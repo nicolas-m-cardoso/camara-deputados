@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Câmara API</string>
+    <string name="fazer_login">Autenticação</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="register">Registrar-se</string>
+    <string name="click_to_login">Clique aqui caso já possua uma conta (Login)</string>
+    <string name="click_to_register">Clique aqui caso ainda não tenha uma conta (Registrar-se)</string>
+    <string name="logout">Logout</string>
+    <string name="partidos">Início</string>
+    <string name="config">Configurações</string>
+</resources>
